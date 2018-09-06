@@ -30,7 +30,7 @@ public class frmConfigSettings extends javax.swing.JFrame
 
     public frmConfigSettings() throws Exception
     {
-        initComponents();
+         initComponents(); 
         cmbBillPrinters.addItem("NA");
         cmbAdvRecPrinters.addItem("NA");
 
